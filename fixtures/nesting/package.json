@@ -2,6 +2,17 @@
   "name": "react-nesting-example",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "sockjs": "0.3.24",
+    "ansi-html": "0.0.9",
+    "serialize-javascript": "7.0.2",
+    "braces": "3.0.3",
+    "object-path": "0.11.8",
+    "tough-cookie": "6.0.0",
+    "tmp": "0.2.5",
+    "form-data": "4.0.5",
+    "nth-check": "2.1.1"
+  },
   "dependencies": {
     "react-scripts": "3.4.1",
     "redux": "^4.0.5"
