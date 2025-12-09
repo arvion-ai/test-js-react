@@ -13,5 +13,11 @@
   "scripts": {
     "prebuild": "cp -r ../../build/oss-experimental/* ./node_modules/",
     "build": "webpack app.js bundle.js"
+  },
+  "overrides": {
+    "braces": "3.0.3",
+    "loader-utils": "3.3.1",
+    "micromatch": "4.0.8",
+    "sha.js": "2.4.12"
   }
 }
