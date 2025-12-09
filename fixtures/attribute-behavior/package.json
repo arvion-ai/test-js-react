@@ -11,7 +11,7 @@
     "react-virtualized": "^9.9.0"
   },
   "resolutions": {
-    "fsevents": "1.2.13"
+    "fsevents": "2.3.3"
   },
   "scripts": {
     "predev":
