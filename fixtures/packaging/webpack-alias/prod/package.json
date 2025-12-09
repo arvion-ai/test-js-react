@@ -2,6 +2,11 @@
   "private": true,
   "name": "webpack-alias-prod-fixture",
   "dependencies": {
+    "braces": "3.0.3",
+    "json5": "2.2.3",
+    "loader-utils": "3.3.1",
+    "micromatch": "4.0.8",
+    "sha.js": "2.4.12",
     "webpack": "^1.14.0"
   },
   "scripts": {
