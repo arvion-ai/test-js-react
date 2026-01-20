@@ -54,7 +54,7 @@
     "jest-fetch-mock": "^3.0.3",
     "node-libs-browser": "0.5.3",
     "nullthrows": "^1.0.0",
-    "open": "^7.0.2",
+    "open": "^11.0.0",
     "os-name": "^3.1.0",
     "parse-filepath": "^1.0.2",
     "process": "0.11.10",
