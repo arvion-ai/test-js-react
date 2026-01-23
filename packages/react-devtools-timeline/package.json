@@ -13,7 +13,7 @@
     "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.6.2",
     "@reach/menu-button": "^0.16.1",
     "@reach/tooltip": "^0.16.0",
     "babel-loader": "^8.1.0",
