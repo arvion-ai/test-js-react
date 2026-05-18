@@ -2,7 +2,7 @@
   "private": true,
   "name": "brunch-prod-fixture",
   "devDependencies": {
-    "brunch": "^2.9.1",
+    "brunch": "^5.0.1",
     "javascript-brunch": "^2.0.0"
   },
   "scripts": {
